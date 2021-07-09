@@ -35,7 +35,7 @@
     "styled-components": "5.3.0"
   },
   "devDependencies": {
-    "@types/node": "14.17.0",
+    "@types/node": "14.17.5",
     "@types/react": "17.0.14",
     "@types/react-dom": "17.0.7",
     "@types/react-html-parser": "2.0.1",
